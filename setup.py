@@ -7,7 +7,7 @@ setup(
     author='Hugo Osvaldo Barrera',
     author_email='hugo@barrera.io',
     packages=['envsettings'],
-    url='https://github.com/hobarrera/envsettings',
+    url='https://git.barrera.io/hobarrera/envsettings',
     license='ISC',
     description="Read settings from environment variables."
 )

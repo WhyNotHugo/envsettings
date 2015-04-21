@@ -32,6 +32,14 @@ myapp.run(r.host, r.port, debug=r.debug)
 Boolean values can be either "true", "yes", or "on" and are treated in a
 insensitive manner.
 
+Contributing
+------------
+
+Any feedback is welcome, and please report any bugs you encounter on the
+project's [issue tracker](https://git.barrera.io/hobarrera/envsettings/issues).
+
+Patches or merge requests are welcome.
+
 Licence
 -------
 
