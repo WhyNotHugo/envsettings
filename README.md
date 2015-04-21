@@ -35,6 +35,7 @@ insensitive manner.
 Licence
 -------
 
-envsettings is licensed under the MIT licence. See LICENCE.md for details.
+envsettings is licensed under the ISC licence (functionally equivalent to the
+MIT licence). See LICENCE.md for details.
 
 Copyright (c) 2014 Hugo Osvaldo Barrera <hugo@barrera.io>
